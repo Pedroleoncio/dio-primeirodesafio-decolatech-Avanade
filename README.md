@@ -1,5 +1,4 @@
 # dio-primeirodesafio-decolatech-Avanade
-Meu código referente ao desafio Decola Tech, projeto Git/Hub.
-
+Repositório criado para o desafio de projeto
 ##  Links úteis
 [Sintaxe  basica Markdown](https://www.markdownguide.org/basic-syntax/)
