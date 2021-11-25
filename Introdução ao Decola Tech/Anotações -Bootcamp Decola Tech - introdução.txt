@@ -1,0 +1,9 @@
+ Modulos dos Bootcamp
+
+*Bem vindo ao Decola tech
+* Lógica de Progrmação Essencial
+*Aprenda o que são estruturas de dados e Algoritmos
+*Lógica de programação essecial
+* Introdução ao Git e ao Github
+
+Live mentoria #: Aula Inaugural do Decola Tech 2ª edição 25/11/2021(Asssistido).
